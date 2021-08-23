@@ -1,7 +1,7 @@
 # SMB2-Randomizer
 by MaCobra52
 
-This is a simple randomizer for Super Mario Bros 2 that includes the following core options:
+This is a simple randomizer for Super Mario Bros 2 (US) that includes the following core options:
 
 -Character Randomizer - modifies the game so that in each level you are locked into selecting one character chosen at random. The character is automatically highlighted and you cannot use left/right to change them.
 
