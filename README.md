@@ -30,6 +30,7 @@ Notes:
 
 -If you are planning a race, be sure that all participants enter the same seed and flags to generate the same randomization. Additionally a hash will be displayed on the title screen (in place of the copyright) and included in the file name to confirm that everything matches. With the exception of the character color options, hashes will NOT match if a different seed or different settings are chosen.
 
+-With enemy randomization, there may be difficult/unfair scenarios that can occur, but care has been taken where necessary to prevent softlocks and being forced to take damage to progress. Additionally a Speedrun Friendly option exists that does not randomize certain additional enemies that are used during a typical speedrun of the game.
 
 Special Thanks To: 
 
