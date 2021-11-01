@@ -37,7 +37,9 @@ At this point you can close the randomizer and play! The randomizer will remembe
 
 - Your health is still capped at 4 HP regardless of which Starting Health option you pick. Attempting to go above 4 HP (by collecting enough Mushrooms) will result in the health bar becoming glitched until you either beat the current level or game over.
 
-- Certain 'Wrong Warp' speedrun techniques may have unpredictable results when attempted due to the nature of randomizer (the popular ones used in 1-1, 1-3, and 3-3 ARE confirmed to work the same as in vanilla)
+- Certain 'Wrong Warp' speedrun techniques may have unpredictable results when attempted due to the nature of randomizer (the popular ones used in 1-1, 1-3, and 3-3 ARE confirmed to work the same as in vanilla however)
+
+- Sometimes a Tweeter or Snifit may emerge from an Ostro when separated instead of a Shyguy. Additionally sometimes enemies may emerge from Small Jars faster than expected. These are minor side effects from randomizing Small Jars.
 
 
 ### Special Thanks To: 
