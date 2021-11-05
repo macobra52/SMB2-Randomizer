@@ -5,7 +5,7 @@ This is a randomizer for Super Mario Bros 2 (US) that includes the following cor
 
 - **Character Randomizer** - modifies the game so that in each level you are locked into selecting one character chosen at random. The character is automatically highlighted and you cannot use left/right to change them.
 
-- **Level Randomizer** - Shuffles the level order (except for 7-2, which is always last). Additional options are also included to customize the level randomization, modify warp functionality, randomize most plants that you pull from the ground, and randomize how often stars and hearts appear.
+- **Level Randomizer** - Shuffles the level order (except for 7-2, which is always last). Additional options are also included to customize the level randomization, modify warp functionality, randomize most plants that you pull from the ground, randomize how often stars and hearts appear, and randomize the background colors.
 
 - **Enemy/Boss Randomizer** - Randomizes most ground enemies, Pansers, Sparks, the small jars that generate enemies, Birdos (type and HP), Birdo pattern, and the HP of major bosses.
 
@@ -18,7 +18,7 @@ https://www.java.com/en/
 1. Double-click the exe to start the randomizer.
 2. Select the base SMB2U ROM (PRG0 or PRG1/Rev A) that you would like to use along with the output directory of the randomized ROM.
 3. Enter a number for the seed, or use the one provided.
-4. If you wish to adjust any of the settings, adjust the appropriate options on each tab. You can randomize character choice, levels, plants, enemies, Birdo, boss hp, set starting lives, continues, health, change character colors, and more!
+4. If you wish to adjust any of the settings, adjust the appropriate options on each tab. You can randomize character choice, levels, plants, background colors, enemies, Birdo, boss hp, set starting lives, continues, health, change character colors, and more!
 5. click 'Generate!'
 
 At this point you can close the randomizer and play! The randomizer will remember the previous files, directories, and settings chosen, so in the future all you need to do is adjust the seed (if desired) and click 'Generate!'
