@@ -42,6 +42,11 @@ At this point you can close the randomizer and play! The randomizer will remembe
 - Sometimes a Tweeter or Snifit may emerge from an Ostro when separated instead of a Shyguy like normal. Additionally sometimes enemies may emerge from Small Jars faster than expected. These are minor side effects from randomizing Small Jars.
 
 
+### Vanilla Glitches to be Aware of:
+
+- If you pick up a plant containing a Bob-omb while the screen is shaking from throwing a POW block, the Bob-omb will simply fall off the screen without exploding, but it WILL explode without warning in the next room you transition to, resulting in unavoidable damage (unless you are climbing a vine). To avoid this it is recommended that you do not pick up plants during the shaking effect if the plant's contents are unknown.
+
+
 ### Special Thanks To: 
 
 - CurtsNewBrand for all of the inital testing for this idea and giving me the drive to see it through.
