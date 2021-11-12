@@ -39,7 +39,7 @@ At this point you can close the randomizer and play! The randomizer will remembe
 
 - Certain 'Wrong Warp' speedrun techniques may have unpredictable results when attempted due to the nature of randomizer (the popular ones used in 1-1, 1-3, and 3-3 ARE confirmed to work the same as in vanilla however)
 
-- Sometimes a Tweeter or Snifit may emerge from an Ostro when separated instead of a Shyguy like normal. Additionally sometimes enemies may emerge from Small Jars faster than expected. These are minor side effects from randomizing Small Jars.
+- Sometimes a Tweeter or Snifit may emerge from an Ostro when separated instead of a Shyguy like normal. This is a minor side effect from randomizing Small Jars.
 
 
 ### Vanilla Glitches to be Aware of:
