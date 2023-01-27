@@ -9,6 +9,8 @@ This is a randomizer for Super Mario Bros 2 (US) that includes the following cor
 
 - **Enemy/Boss Randomizer** - Randomizes most ground enemies, Pansers, Sparks, the small jars that generate enemies, Birdos (type and HP), Birdo pattern, and the HP of major bosses.
 
+Additionally, many QoL features have been implemented and are customizable, such as the ability to set your starting lives and health, unlimited continues, faster digging, alternative music from the Prototype version of SMB2, and more!
+
 
 ### First Time Instructions:
 
