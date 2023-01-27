@@ -1,4 +1,4 @@
-# SMB2-Randomizer
+# Super Mario Bros. 2 Randomizer
 by MaCobra52
 
 This is a randomizer for Super Mario Bros 2 (US) that includes the following core options:
