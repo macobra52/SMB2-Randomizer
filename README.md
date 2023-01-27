@@ -57,4 +57,9 @@ At this point you can close the randomizer and play! The randomizer will remembe
 
 - SpiderDave for permission to integrate some of his SMB2 improvements into the randomizer.
 
+### Discord:
+
+For the latest developments, including Beta releases, be sure to check out the Super Mario Bros. 2 Randomizer discord (shared with pepperpow's Door Randomizer):
+https://discord.gg/gNXANyV
+
 ### Enjoy!
