@@ -5,7 +5,7 @@ This is a randomizer for Super Mario Bros 2 (US) that includes the following cor
 
 - **Character Randomizer** - modifies the game so that in each level you are locked into selecting one character chosen at random. The character is automatically highlighted and you cannot use left/right to change them. Additionaly character attributes/stats can also be randomized (speed, jumping, floating ability, etc.)
 
-- **Level Randomizer** - Shuffles the level order (except for 7-2, which is always last). Additional options are also included to customize the level randomization, modify warp functionality, randomize most plants that you pull from the ground, randomize how often stars and hearts appear, and randomize the background colors.
+- **Level Randomizer** - Shuffles the level order (except for 7-2, which is always last). Additional options are also included to customize the level randomization, modify warp functionality, randomize most plants that you pull from the ground, randomize how often stars and hearts appear, and randomize the background and sprite colors.
 
 - **Enemy/Boss Randomizer** - Randomizes most ground enemies, Pansers, Sparks, the small jars that generate enemies, Birdos (type and HP), Birdo pattern, and the HP of major bosses.
 
