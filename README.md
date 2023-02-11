@@ -20,7 +20,7 @@ https://www.java.com/en/
 1. Double-click the exe or jar to start the randomizer.
 2. Select the base SMB2U ROM (PRG0 or PRG1/Rev A) that you would like to use along with the output directory of the randomized ROM.
 3. Enter a number for the seed, or use the one provided.
-4. If you wish to adjust any of the settings, adjust the appropriate options on each tab. You can randomize character choice, character attributes, levels, plants, background colors, enemies, Birdo, boss hp, set starting lives, continues, health, change character colors, and more!
+4. If you wish to adjust any of the settings, adjust the appropriate options on each tab. You can randomize character choice, character attributes, levels, plants, background colors, enemies, Birdo, boss hp, set starting lives, continues, health, change character colors, and more! (Hover over each option for additional details)
 5. click 'Generate!'
 
 At this point you can close the randomizer and play! The randomizer will remember the previous files, directories, and settings chosen, so in the future all you need to do is adjust the seed (if desired) and click 'Generate!'
