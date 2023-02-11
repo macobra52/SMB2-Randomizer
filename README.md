@@ -37,9 +37,9 @@ At this point you can close the randomizer and play! The randomizer will remembe
 - With enemy randomization, there may be difficult/unfair scenarios that can occur, but care has been taken where necessary to prevent softlocks and being forced to take damage to progress. Additionally a Speedrun Friendly option exists that does not randomize certain additional enemies that are used during a typical speedrun of the game.
 
 - Extra care has been taken when randomizing levels transitions to ensure no softlocks can occur, but some results may be a bit on the challenging side. Be sure you have tried all possibilities and note the following:
-3-1: This is the only level that has an odd number of transitions, allowing two transitions to link to the same destination (normally used to exit the area with the warp)
-3-3: Sometimes you may need to fall down the tower sections with the key in order to get to the lock (since you cannot climb chains with the key)
-7-2: The door transition going from the Birdo holding the key to the room with the lock is mostly unchanged (for now)
+  - 3-1: This is the only level that has an odd number of transitions, allowing two transitions to link to the same destination (normally used to exit the area with the warp)
+  - 3-3: Sometimes you may need to fall down the tower sections with the key in order to get to the lock (since you cannot climb chains with the key)
+  - 7-2: The door transition going from the Birdo holding the key to the room with the lock is mostly unchanged (for now)
 
 
 ### Known Oddities:
