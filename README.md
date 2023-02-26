@@ -7,7 +7,7 @@ This is a randomizer for Super Mario Bros 2 (US) that includes the following cor
 
 - **Level Randomizer** - Shuffles the level order (except for 7-2, which is always last) and optionally the transitions within each level, including where doors and vines take you. Additional options are also included to customize the level randomization, modify warp functionality, randomize most plants that you pull from the ground, randomize how often stars, hearts, and stopwatches appear, and randomize the background and sprite colors.
 
-- **Enemy/Boss Randomizer** - Randomizes most ground enemies, Pansers, Sparks, the small jars that generate enemies, Birdos (type and HP), Birdo pattern, the HP of major bosses, and boss difficulty
+- **Enemy/Boss Randomizer** - Randomizes most ground enemies, Pansers, Sparks, the small jars that generate enemies, where Phanto appears, Birdos (type and HP), Birdo pattern, the HP of major bosses, and boss difficulty
 
 Additionally, many QoL features have been implemented and are customizable, such as the ability to set your starting lives and health, unlimited continues, faster digging, alternative music from the Prototype version of SMB2, and more!
 
@@ -34,7 +34,7 @@ At this point you can close the randomizer and play! The randomizer will remembe
 
 - In the randomizer, options in Red are generally not recommended for beginners. Options in Purple can be freely adjusted without affecting the resulting Flags/Hash.
 
-- With enemy randomization, there may be difficult/unfair scenarios that can occur, but care has been taken where necessary to prevent softlocks and being forced to take damage to progress. Additionally a Speedrun Friendly option exists that does not randomize certain additional enemies that are used during a typical speedrun of the game.
+- With enemy randomization, there may be difficult/unfair scenarios that can occur, but care has been taken where necessary (and possible) to prevent softlocks and being forced to take damage to progress. Additionally a Speedrun Friendly option exists that does not randomize certain additional enemies that are used during a typical speedrun of the game.
 
 - Extra care has been taken when randomizing levels transitions to ensure no softlocks can occur, but some results may be a bit on the challenging side. Be sure you have tried all possibilities and note the following:
   - 3-1: This is the only level that has an odd number of transitions, allowing two transitions to link to the same destination (normally used to exit the area with the warp)
