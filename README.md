@@ -70,3 +70,11 @@ For the latest developments, including Beta releases, be sure to check out the S
 https://discord.gg/gNXANyV
 
 ### Enjoy!
+
+### Screenshots
+
+![smb2r1](https://user-images.githubusercontent.com/24445539/221449562-2d1344a9-6920-4e40-a627-554400e75d43.png)
+![smb2r2](https://user-images.githubusercontent.com/24445539/221449600-d21e77b6-6ba0-4e2f-b3ed-83a83a925c4d.png)
+![smb2r3](https://user-images.githubusercontent.com/24445539/221449627-ab38caff-9bf2-41c9-963c-96cb0dba9914.png)
+![smb2r4](https://user-images.githubusercontent.com/24445539/221449634-7cf1e418-41bb-4db4-8567-71b4c6cf9375.png)
+![smb2r5](https://user-images.githubusercontent.com/24445539/221449645-da8b2c6f-33d2-4f12-b73b-8554498d93e0.png)
