@@ -53,8 +53,6 @@ At this point you can close the randomizer and play! The randomizer will remembe
 
 ### Vanilla Glitches to be Aware of:
 
-- **Fryguy Glitch (PRG0 only)** - Normally, hitting a mini-Fryguy with a Mushroom Block will cause it to disappear in a puff of smoke. In the original release, however, if you manage to hit one while your character is shrinking, it will flip upside-down and fall off the screen instead. This confuses the game into thinking there are mini-Fryguys left even after the rest are extinguished, and hence the exit will never appear. Until a proper fix is implemented for this, it is advised to randomize using the PRG1/Rev A version of the ROM or alternatively, if you encounter the glitch execute the 'Kill Code' and try again.
-
 - **Bob-Omb Ambush** - If you pick up a plant containing a Bob-omb while the screen is shaking from throwing a POW block, the Bob-omb will simply fall off the screen without exploding, but it WILL explode without warning in the next room you transition to, resulting in unavoidable damage (unless you are climbing a vine). To avoid this it is recommended that you do not pick up plants during the shaking effect if the plant's contents are unknown.
 
 
